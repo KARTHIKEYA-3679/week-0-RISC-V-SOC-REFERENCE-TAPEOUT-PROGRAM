@@ -23,7 +23,7 @@ I configured my Virtual machine in the following manner:
 |-----------------------|-----------------------|
 | **Operating System**  | Ubuntu 24.10/ 25.04   |
 | **RAM**               | 8GB                   |
-| **Storage**           | 30GB HDD              |
+| **Storage**           | 50GB HDD              |
 
 </div>
 These system specs and configurations gives you optimal performance while handling all kinds of tools and simulations requried all throughout the program
