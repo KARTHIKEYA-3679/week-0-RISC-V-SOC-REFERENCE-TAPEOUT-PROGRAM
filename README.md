@@ -194,8 +194,11 @@ Now **WE ARE READY TO START FOR DESIGN JOURNEY IN THIS PROGRAM**
 
 <div align="center">
 ** Author:** KARTHIKEYA SHARMA GUDA ( https://github.com/KARTHIKEYA-3679)
+ 
 **Repository:** KARTHIKEYA-3679 (https://github.com/KARTHIKEYA-3679/week-0-RISC-V-SOC-REFERENCE-TAPEOUT-PROGRAM)
+
 **Guided and Program offered by:** VLSI System Design (https://vsdiat.vlsisystemdesign.com)
+
 
 </div>
 
